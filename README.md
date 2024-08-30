@@ -1,16 +1,21 @@
-## Hi there 👋
+# Ciao👋, I'm  Clemence!
+I'm a passionate AI engineer focused on transforming and innovating lives through cutting-edge technology.
 
-<!--
-**ingabireclec/ingabireclec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 Current Focus
+- **AI in E-commerce**: Enhancing visual search and chatbot functionality.
+- **Master's in Engineering (AI)**: Diving deep into Large Language Models ,deep learning and AI Systems Design.
 
-Here are some ideas to get you started:
+### ⚙️ Skills & Technologies
+- **Languages**: Python, JavaScript, PHP
+- **Frameworks**: PyTorch, TensorFlow, Flask
+- **Tools**: Docker, Git, Jupyter
+- **Databases**: MySQL, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Achievements
+- Participated in 'Women in AI' event, where I shared insights on AI in the tech industry.
+- Contributed to the development of AI-based transportation optimization systems in Rwanda.
+
+
+### 🌱 Fun Facts
+- I'm a huge fan of thriller novels and enjoy exploring new coffee spots.
+
