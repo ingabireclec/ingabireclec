@@ -6,10 +6,10 @@ I'm a passionate AI engineer focused on transforming and innovating lives throug
 - **Master's in Engineering (AI)**: Diving deep into Large Language Models ,deep learning and AI Systems Design.
 
 ### ⚙️ Skills & Technologies
-- **Languages**: Python, JavaScript, PHP
+- **Languages**: Python, JavaScript, 
 - **Frameworks**: PyTorch, TensorFlow, Flask
-- **Tools**: Docker, Git, Jupyter
-- **Databases**: MySQL, PostgreSQL
+- **Tools**: Docker, Git, Jupyter,Kubernetes,Grafana,Prometheus,Prophet
+- **Databases**: MySQL, PostgreSQL,MongoDb
 
 ### 🏆 Achievements
 - Participated in 'Women in AI' event, where I shared insights on AI in the tech industry.
